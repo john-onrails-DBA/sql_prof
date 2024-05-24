@@ -1,0 +1,12 @@
+CRIAÇÃO DO USUÁRIO HR EM BD ORACLE 10G
+
+1- No prompt de comandos do Sistema Operacional, entrar na pasta human_resources
+     
+2- Entrar no sqlplus, conectando-se em um BD como sys ou system;
+    Ex.: sqlplus system/senha@bancodados
+    
+3- Executar o script "hr_main.sql" como no exemplo abaixo:
+    SQL > @hr.main.sql;
+
+4- Verificar mensagens do script que informam se o usuário foi criado e sair do sqlplus:
+    SQL > exit

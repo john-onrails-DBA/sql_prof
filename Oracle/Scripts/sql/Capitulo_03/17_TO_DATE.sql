@@ -1,0 +1,2 @@
+SELECT  TO_DATE('12/25/2012', 'mm/dd/YYYY') 
+FROM    DUAL;

@@ -1,0 +1,4 @@
+-- apagando sequencias:
+DROP SEQUENCE HR.SQ_EMPLOYEES;
+    
+DROP SEQUENCE HR.SQ_EMP2;
